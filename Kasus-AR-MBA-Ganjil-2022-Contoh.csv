@@ -1,12 +1,12 @@
-ID Transaksi;Tanggal;Konsumen;ID Produk;Nama Produk;Merek;Jumlah
-1;2015-07-01 00:00:00;Mr. A;1;Roti;Sri Roti;2
-;2015-07-01 00:00:00;Mr. A;2;Air Minum;Aquos;1
-;2015-07-01 00:00:00;Mr. A;11;Mie Instan;Indomi;2
-;2015-07-01 00:00:00;Mr. A;12;Mie Instan;Mi Sedap;1
-2;2015-07-01 00:00:00;Mr. B;2;Air Minum;Aquos;1
-;2015-07-01 00:00:00;Mr. B;6;Snack;Chiki;2
-;2015-07-01 00:00:00;Mr. B;3;Roti;Prambanan;1
-;2015-07-01 00:00:00;Mr. B;5;Shampoo;Clean;1
-3;2015-07-02 00:00:00;Mr. C;4;Sabun;Lifboy;1
-;2015-07-02 00:00:00;Mr. C;5;Shampoo;Clean;1
-;2015-07-02 00:00:00;Mr. C;9;Rokok;Malioboro;1
+ID Transaksi,Tanggal,Konsumen,ID Produk,Nama Produk,Merek,Jumlah
+1,2015-07-01 00:00:00,Mr. A,1,Roti,Sri Roti,2
+,2015-07-01 00:00:00,Mr. A,2,Air Minum,Aquos,1
+,2015-07-01 00:00:00,Mr. A,11,Mie Instan,Indomi,2
+,2015-07-01 00:00:00,Mr. A,12,Mie Instan,Mi Sedap,1
+2,2015-07-01 00:00:00,Mr. B,2,Air Minum,Aquos,1
+,2015-07-01 00:00:00,Mr. B,6,Snack,Chiki,2
+,2015-07-01 00:00:00,Mr. B,3,Roti,Prambanan,1
+,2015-07-01 00:00:00,Mr. B,5,Shampoo,Clean,1
+3,2015-07-02 00:00:00,Mr. C,4,Sabun,Lifboy,1
+,2015-07-02 00:00:00,Mr. C,5,Shampoo,Clean,1
+,2015-07-02 00:00:00,Mr. C,9,Rokok,Malioboro,1
